@@ -7,6 +7,22 @@
 
 ---
 
+# 🧠 Sobre meu Portfólio
+
+Olá! Sou Rhainan, desenvolvedor iOS com forte dedicação ao aprendizado contínuo. Aqui você encontrará:
+
+✅ Aplicativos feitos durante meu bootcamp com foco em:
+- Arquiteturas iOS (MVC, MVVM)
+- Storyboard e NavigationController
+- Gerenciamento de dependências com CocoaPods
+- Conexão com APIs REST
+- Boas práticas de versionamento com Git
+
+🔒 Projetos pessoais autorais em desenvolvimento permanecem privados por enquanto.
+
+📫 Me chame no LinkedIn ou e-mail caso queira ver mais!
+---
+
 ## 📱 Meus Projetos
 
 ### 🎨 [ArtShowcase](https://github.com/RhainanDomingos/ArtShowcase)
@@ -49,10 +65,3 @@ App de feed de notícias que consome dados de uma API REST, com foco em arquitet
 - **Testes Unitários:** XCTest, TDD, testes para ViewModel e Service  
 - **Entrevistas Técnicas:** STAR, RH, testes práticos e revisão  
 
----
-
-## 💼 Em busca de oportunidades na área de desenvolvimento iOS
-
-📫 **Entre em contato:**
-- [LinkedIn](https://www.linkedin.com/in/rhainan-domingos)
-- [E-mail](mailto:rhainandomingos@gmail.com)
