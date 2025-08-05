@@ -73,7 +73,7 @@ News feed app consuming REST API data, focused on clean and modular architecture
 
 ---
 
-## iOS Bootcamp (BackFront Academy)
+## iOS (BackFront Academy)
 
 - **iOS Journey:** UIKit, ViewCode, Auto Layout, REST APIs, MVVM  
 - **API:** Networking layer, Codable, error handling  
